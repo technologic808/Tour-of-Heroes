@@ -1,3 +1,3 @@
-# angular-zpye6j
+# Tour Of Heroes App
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-zpye6j)
